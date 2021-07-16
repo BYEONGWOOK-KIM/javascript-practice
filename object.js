@@ -2,9 +2,9 @@
 // one of the JavaScript's data types.
 // a collection of related data and/or functionality.
 // Nearly all objects in JavaScript are instances of Object
-// object = { key : value }; (key와 value의 집합체)
+// object = { key : value } (key와 value의 집합체)
 
-// 1. Literals and properties
+// 1. Literals and Properties
 const obj1 = {}; // 'object literal' syntax
 const obj2 = new Object(); // 'object constructor' syntax
 
