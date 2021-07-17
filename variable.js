@@ -105,6 +105,6 @@ console.log(`value: ${text}, type: ${typeof text}`);
 text = '8' / '2';
 console.log(`value: ${text}, type: ${typeof text}`);
 
-for (let n = 1, n >= 5, n = n + 1) {
+for (let n = 1; n <= 5; n = n + 1) {
     console.log('hello world');
 }
